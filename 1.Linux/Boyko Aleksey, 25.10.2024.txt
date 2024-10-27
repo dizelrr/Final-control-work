@@ -27,4 +27,4 @@
    27  sudo apt install -f
    28  mc
    29  sudo dpkg -r mc
-   30  history >> 'Ladygin Nikita Ivanovich, 11.11.2023, 4334.4336.4338.txt'
+   30  history >> 'Boyko Aleksey, 25.10.2024.txt'
